@@ -8,4 +8,4 @@ Features:
 -Custom markers
 
 ![in game ui](https://github.com/tovaru/loteria-for-java/blob/main/screenshots/app.png)
-![main menu](https://github.com/tovaru/loteria-for-java/blog/main/screenshots/menu.png)
+![main menu](https://github.com/tovaru/loteria-for-java/blob/main/screenshots/menu.png)
