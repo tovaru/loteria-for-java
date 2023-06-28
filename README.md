@@ -7,5 +7,5 @@ Features:
 -Randomly generated card sets
 -Custom markers
 
-![in game ui](https://github.com/tovaru/loteria-for-java/blog/master/screenshots/app.png)
-![main menu](https://github.com/tovaru/loteria-for-java/blog/master/screenshots/menu.png)
+![in game ui](https://github.com/tovaru/loteria-for-java/blob/main/screenshots/app.png)
+![main menu](https://github.com/tovaru/loteria-for-java/blog/main/screenshots/menu.png)
