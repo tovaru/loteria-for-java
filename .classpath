@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="lib/Practica_2_-_Lab_Algoritmos_-_Pilas.jar"/>
+	<classpathentry kind="lib" path="lib/openjfx-78-backport-1.8.0-ea-b96.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
